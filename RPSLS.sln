@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPSLS", "RPSLS\RPSLS.csproj", "{04C27298-EE13-4D63-9782-93FA1CA0CD7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LemonadeStand", "LemonadeStand\LemonadeStand.csproj", "{353D01A5-0944-4E63-86D5-513226C1F0F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{04C27298-EE13-4D63-9782-93FA1CA0CD7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04C27298-EE13-4D63-9782-93FA1CA0CD7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04C27298-EE13-4D63-9782-93FA1CA0CD7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{353D01A5-0944-4E63-86D5-513226C1F0F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{353D01A5-0944-4E63-86D5-513226C1F0F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{353D01A5-0944-4E63-86D5-513226C1F0F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{353D01A5-0944-4E63-86D5-513226C1F0F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,7 +14,6 @@ namespace RPSLS
         public void SetupGame()
         {
             SetUpPlayers();
-
         }
         public void SetUpPlayers()
         {
