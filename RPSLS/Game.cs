@@ -27,6 +27,7 @@ namespace RPSLS
                 playerTwo = new Human();
                 playerOne.SetName();
                 playerTwo.SetName();
+                Console.WriteLine(playerOne.name + " VS. " + playerTwo.name + "! Let the game begin!");
             }
             else if (userInput == "no")
             {
@@ -34,6 +35,7 @@ namespace RPSLS
                 playerTwo = new Computer();
                 playerOne.SetName();
                 playerTwo.name = "Qwerty";
+                Console.WriteLine(playerOne.name + " Vs. Qwerty! Let the game begin!");
             }
         }
 
