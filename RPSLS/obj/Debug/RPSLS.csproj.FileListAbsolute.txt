@@ -1,0 +1,6 @@
+c:\users\raven\documents\visual studio 2015\Projects\RPSLS\RPSLS\bin\Debug\RPSLS.exe.config
+c:\users\raven\documents\visual studio 2015\Projects\RPSLS\RPSLS\bin\Debug\RPSLS.exe
+c:\users\raven\documents\visual studio 2015\Projects\RPSLS\RPSLS\bin\Debug\RPSLS.pdb
+c:\users\raven\documents\visual studio 2015\Projects\RPSLS\RPSLS\obj\Debug\RPSLS.csprojResolveAssemblyReference.cache
+c:\users\raven\documents\visual studio 2015\Projects\RPSLS\RPSLS\obj\Debug\RPSLS.exe
+c:\users\raven\documents\visual studio 2015\Projects\RPSLS\RPSLS\obj\Debug\RPSLS.pdb
